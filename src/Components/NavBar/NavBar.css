@@ -1,0 +1,46 @@
+nav,
+.close-menu {
+    height: clamp(70px, 5vw, 1000px);
+}
+
+.navBar-pad,
+.close-menu {
+    padding: 0 clamp(4px, 2.5vw, 1000px);
+}
+
+.logo-text {
+    font-size: clamp(28px, 2.2vw, 1000px);
+}
+
+.navLink-gap {
+    gap: clamp(4px, 1.2vw, 1000px);
+}
+
+.navLink-text {
+    font-size: clamp(16px, 1.1vw, 1000px);
+}
+
+.navBar-1 {
+    padding-right: clamp(4px, 1.2vw, 1000px);
+}
+
+.navBar-2 {
+    padding-left: clamp(4px, 1.2vw, 1000px);
+}
+
+.menu-icon-open,
+.menu-icon-close {
+    font-size: clamp(28px, 3vw, 1000px);
+}
+
+.navBar-m-1 {
+    padding-bottom: clamp(10px, 1.1vw, 1000px);
+}
+
+.navBar-m-2 {
+    padding-top: clamp(10px, 1.1vw, 1000px);
+}
+
+.navLink-m-gap {
+    gap: clamp(6px, 0.8vw, 1000px);
+}
